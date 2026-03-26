@@ -46,10 +46,6 @@ It detects your hand in real-time and translates finger positions into mouse act
 └─────────────────────────────────────────────┘
 ```
 
-> 📸 _Add your own screenshot or GIF here by replacing this line_
-
----
-
 ## 🛠️ Requirements
 
 | Tool | Version |
