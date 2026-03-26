@@ -37,11 +37,11 @@ It detects your hand in real-time and translates finger positions into mouse act
 │                                             │
 │   Gesture          →    Action              │
 │   ─────────────────────────────────         │
-│   ☝️  Index finger  →    Move cursor         │
-│   ✌️  Two fingers   →    Left click          │
-│   🤟 Three fingers  →    Right click         │
-│   ✊  Fist          →    Double click        │
-│   🖐️  Open palm     →    Scroll up           │
+│   ☝️  Index finger  →    Move cursor        │
+│   ✌️  Two fingers   →    Left click         │
+│   🤟 Three fingers  →    Right click        │
+│   ✊  Fist          →    Double click       │
+│   🖐️  Open palm     →    Scroll up          │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
